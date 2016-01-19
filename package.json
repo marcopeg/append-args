@@ -1,6 +1,6 @@
 {
   "name": "append-args",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Invoke a function tailing some arguments to it",
   "main": "./lib/append-args.js",
   "jsnext:main": "./src/append-args.js",
